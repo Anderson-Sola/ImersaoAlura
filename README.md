@@ -1,4 +1,4 @@
-###  **Buscador de Revelações Verdão: Seu Guia para as Joias do Palmeiras**
+###  **Buscador de Revelações do Palmeiras: Seu Guia para as Joias do Verdão**
 
 **O que faz essa aplicação?**
 
