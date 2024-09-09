@@ -1,6 +1,6 @@
 let dados = [
     {
-        titulo: "Estêvão Willian",
+        titulo: "Estevão Willian",
         descricao: "Estêvão Willian é uma das maiores promessas do futebol brasileiro. Atacante habilidoso e com grande potencial técnico, o jovem jogador chamou a atenção de clubes europeus e se tornou uma peça importante nas categorias de base do Palmeiras. Sua rápida ascensão e estilo de jogo comparado a grandes craques o colocam como um dos nomes a se acompanhar nos próximos anos.",
         link: "https://pt.wikipedia.org/wiki/Estêvão_Willian"
     },
