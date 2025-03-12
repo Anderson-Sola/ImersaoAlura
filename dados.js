@@ -16,7 +16,7 @@ let dados = [
     },
     {
         titulo: "Danilo",
-        descricao: "Danilo é um lateral-direito brasileiro que se destacou no Palmeiras por sua solidez defensiva e habilidade no ataque. Sua versatilidade e qualidade técnica o tornaram um dos pilares da equipe.",
+        descricao: "Danilo é um jovem Volante brasileiro que se destacou no Palmeiras por sua solidez defensiva e habilidade no ataque. Sua versatilidade e qualidade técnica o tornaram um dos pilares da equipe. Atualmente é titular no time inglês Forest.",
         link: "https://pt.wikipedia.org/wiki/Danilo_(futebolista)"
     },
     {
